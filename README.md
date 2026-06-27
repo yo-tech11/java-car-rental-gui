@@ -42,8 +42,5 @@ CarRentalSystem/
 - Implemented classes, objects, inheritance, encapsulation, and polymorphism
 - Improved Java programming and GUI development skills
 
-## 📸 Screenshots
-(Add screenshots of your application here.)
-
 ## 👨‍💻 Author
 **Kamal Singh**
